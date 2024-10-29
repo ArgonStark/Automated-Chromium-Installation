@@ -49,8 +49,6 @@ You'll need to enter your prefered data such as username and password for Chromi
 * It needs a code to join: `cm1i9yz06es6aqi1bqs0mjsk4`
 * There is a daily Check-in
 
-#
-
 
 #
 
