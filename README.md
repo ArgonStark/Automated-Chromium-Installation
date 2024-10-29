@@ -1,4 +1,4 @@
-# automated-Chromium-Installation
+# Automated-Chromium-Installation
 
 ### Run this command on your own system to install chromium on your servers 
 ``` 
