@@ -12,6 +12,15 @@ You'll need to enter your prefered data such as username and password for Chromi
 
 # Nodes you can run
 
+### Oasis
+* Raised $18M
+* Create account [here](https://r.oasis.ai/argonstark)
+* Insatll extension [Extension](https://chromewebstore.google.com/detail/oasisai/knhbjeinoabfecakfppapfgdhcpnekmm)
+* Invite Code: `argonstark`
+
+#
+
+
 ### Dawn
 * Raised $18M
 * Install [Extension](https://chromewebstore.google.com/detail/dawn-validator-chrome-ext/fpdkjdnhkakefebpekbdhillbhonfjjp)
