@@ -47,7 +47,7 @@ You'll need to enter your prefered data such as username and password for Chromi
 
 ### Blockmesh
 * Data Network in EclipseFND ecosystem
-* Create account [here](https://app.blockmesh.xyz/register?invite_code=e0af8150-f715-4b0c-b19b-de6c07b8f413)
+* Create account [here](https://app.blockmesh.xyz/register?invite_code=argon)
 * Install [Extension](https://chromewebstore.google.com/detail/blockmesh-network/obfhoiefijlolgdmphcekifedagnkfjp)
 
 #
